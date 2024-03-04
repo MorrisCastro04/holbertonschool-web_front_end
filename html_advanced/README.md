@@ -12,7 +12,7 @@ task 5: add all the sections tags
 
 task 6: add article tags to works, news and testimonials
 
-task 7: 
+task 7: add nav to the header
 
 task 8: add a level 1 heading to the main
 
@@ -31,3 +31,5 @@ task 14: add span in the header
 task 15: add a div to the header, sections and footer
 
 task 16: add a header and div to each section
+
+task 17: add line brakers and comments
