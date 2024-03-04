@@ -12,4 +12,6 @@ task 5: add all the sections tags
 
 task 6: add article tags to works, news and testimonials
 
-task 7: add the tag nav to the header
+task 7: 
+
+task 8: add a level 1 heading to the main
