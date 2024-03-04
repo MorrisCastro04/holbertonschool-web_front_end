@@ -15,3 +15,5 @@ task 6: add article tags to works, news and testimonials
 task 7: 
 
 task 8: add a level 1 heading to the main
+
+task 9: add level 2 heading to all sections
