@@ -55,3 +55,5 @@ task 26: styleguide of the diferents type of lists
 task 27: add horizontal rule
 
 task 28: styleguide of Horizontal rules
+
+task 29: add blockquote and cite to every article in Testimonials
