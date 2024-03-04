@@ -37,3 +37,5 @@ task 17: add line brakers and comments
 task 18: link in the header to the root
 
 task 19: create 3 files about, news and contact and change title
+
+task 20: add links and text in the nav
