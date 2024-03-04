@@ -65,3 +65,5 @@ task 31: add the address to the footer and authors names in the news articles
 task 32: styleguide of the differents type of typography
 
 task 33: styleguide of Tables
+
+task 34: styleguide of Details
