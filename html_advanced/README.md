@@ -49,3 +49,5 @@ task 23: add links to service, works and news
 task 24: make a unordered list in the nav and the footer
 
 task 25: create a new list in the footer
+
+task 26: styleguide od the diferents type of lists
