@@ -11,3 +11,5 @@ task 4: change the title and add the aside tag
 task 5: add all the sections tags
 
 task 6: add article tags to works, news and testimonials
+
+task 7: add the tag nav to the header
