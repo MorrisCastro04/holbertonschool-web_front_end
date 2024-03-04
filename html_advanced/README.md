@@ -23,3 +23,5 @@ task 10: add level 3 heading to Service, Works, About us and News
 task 11: styleguide to see all levels of heading
 
 task 12: add paragraph in all sections
+
+task 13: styleguide of the paragraphs
