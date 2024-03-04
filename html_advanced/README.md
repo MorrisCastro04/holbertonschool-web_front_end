@@ -29,3 +29,5 @@ task 13: styleguide of the paragraphs
 task 14: add span in the header
 
 task 15: add a div to the header, sections and footer
+
+task 16: add a header and div to each section
