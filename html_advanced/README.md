@@ -67,3 +67,5 @@ task 32: styleguide of the differents type of typography
 task 33: styleguide of Tables
 
 task 34: styleguide of Details
+
+task 35: add the logo img in the header and footer
