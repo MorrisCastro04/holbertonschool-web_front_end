@@ -43,3 +43,5 @@ task 20: add links and text in the nav
 task 21: add links in the footer
 
 task 22: add links to the sections Hero, About us and Contact
+
+task 23: add links to service, works and news
