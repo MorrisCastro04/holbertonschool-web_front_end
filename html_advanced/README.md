@@ -45,3 +45,5 @@ task 21: add links in the footer
 task 22: add links to the sections Hero, About us and Contact
 
 task 23: add links to service, works and news
+
+task 24: make a unordered list in the nav and the footer
