@@ -33,3 +33,5 @@ task 15: add a div to the header, sections and footer
 task 16: add a header and div to each section
 
 task 17: add line brakers and comments
+
+task 18: link in the header to the root
