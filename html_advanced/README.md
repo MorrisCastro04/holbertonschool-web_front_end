@@ -50,4 +50,6 @@ task 24: make a unordered list in the nav and the footer
 
 task 25: create a new list in the footer
 
-task 26: styleguide od the diferents type of lists
+task 26: styleguide add the diferents type of lists
+
+task 27: add horizontal rule
