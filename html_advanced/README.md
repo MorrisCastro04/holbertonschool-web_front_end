@@ -57,3 +57,5 @@ task 27: add horizontal rule
 task 28: styleguide of Horizontal rules
 
 task 29: add blockquote and cite to every article in Testimonials
+
+task 30: styleguide of blockquotes
