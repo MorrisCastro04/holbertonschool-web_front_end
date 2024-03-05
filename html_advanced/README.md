@@ -75,3 +75,5 @@ task 36: add image to the page
 task 37: change the footer text to icons
 
 task 38: styleguide of video
+
+task 39: styleguide of Audio
