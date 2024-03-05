@@ -69,3 +69,5 @@ task 33: styleguide of Tables
 task 34: styleguide of Details
 
 task 35: add the logo img in the header and footer
+
+task 36: add image to the page
