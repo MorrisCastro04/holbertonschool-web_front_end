@@ -11,3 +11,5 @@ task 4: add a font family to the body and title
 task 5: add to the root the sizes of fonts
 
 task 6: add to the root the weight of the fonts
+
+task 7: add as the first choice Open Sans and Raleway
