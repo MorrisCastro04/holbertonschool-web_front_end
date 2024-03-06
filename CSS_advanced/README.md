@@ -5,3 +5,5 @@ task 1: make the scroll smooth
 task 2: change the font color
 
 task 3: add a root element with the colors
+
+task 4: add a font family to the body and title
