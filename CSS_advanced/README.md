@@ -9,3 +9,5 @@ task 3: add a root element with the colors
 task 4: add a font family to the body and title
 
 task 5: add to the root the sizes of fonts
+
+task 6: add to the root the weight of the fonts
