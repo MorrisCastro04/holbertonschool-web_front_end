@@ -15,3 +15,5 @@ task 6: add to the root the weight of the fonts
 task 7: add as the first choice Open Sans and Raleway
 
 task 8: add diferent line height to the root
+
+task 9: remove the text decorations of anchor elements
