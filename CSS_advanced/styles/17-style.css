@@ -112,7 +112,7 @@ a:active {
 }
 
 .section {
-    padding: var(--section-header-padding);
+    padding: var(--section-padding);
 }
 
 h1, h2, h3, h4, h5, h6 {
