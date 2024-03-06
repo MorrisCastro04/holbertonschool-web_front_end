@@ -21,3 +21,5 @@ task 9: remove the text decorations of anchor elements
 task 10: add a custom property to center a text
 
 task 11: add a custom property to uppercase a text
+
+task 12: give the class section title a family font, size, weight, margin and color
