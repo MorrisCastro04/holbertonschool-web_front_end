@@ -25,3 +25,5 @@ task 11: add a custom property to uppercase a text
 task 12: give the class section title a family font, size, weight, margin and color
 
 task 13: add diferents phases to the anchor elements
+
+task 14: add  necolas normalize 
