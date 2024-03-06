@@ -26,4 +26,6 @@ task 12: give the class section title a family font, size, weight, margin and co
 
 task 13: add diferents phases to the anchor elements
 
-task 14: add  necolas normalize 
+task 14: add  necolas normalize
+
+task 15: add a universal box sizing
