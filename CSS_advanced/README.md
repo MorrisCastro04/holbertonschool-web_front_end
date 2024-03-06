@@ -18,4 +18,6 @@ task 8: add diferent line height to the root
 
 task 9: remove the text decorations of anchor elements
 
-task 10: add a custom porperty to center a text
+task 10: add a custom property to center a text
+
+task 11: add a custom property to uppercase a text
