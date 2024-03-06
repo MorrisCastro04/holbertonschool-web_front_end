@@ -13,3 +13,5 @@ task 5: add to the root the sizes of fonts
 task 6: add to the root the weight of the fonts
 
 task 7: add as the first choice Open Sans and Raleway
+
+task 8: add diferent line height to the root
