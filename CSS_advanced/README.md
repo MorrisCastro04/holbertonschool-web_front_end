@@ -35,3 +35,5 @@ task 16: add a wide and margin to container class
 task 17: create custom properties for padding
 
 task 18: create and add custom propertys to the nav
+
+task 20: custom the unordered lists and the footer copyright
