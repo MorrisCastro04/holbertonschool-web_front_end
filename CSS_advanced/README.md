@@ -59,3 +59,5 @@ task 28: fix header logo
 task 29: Styling and custom properties for the nav
 
 task 30: Fix the works section
+
+task 31: Add quotes decoration on testimonials
