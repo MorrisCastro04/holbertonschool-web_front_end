@@ -53,3 +53,5 @@ task 25: custom the button
 task 26: Add border radius to images
 
 task 27: Styling the section hero
+
+task 28: fix header logo
