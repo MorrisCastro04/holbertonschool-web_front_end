@@ -47,3 +47,5 @@ task 22: style the data section theme
 task 23: fix the address and svg to fix the dark theme
 
 task 24: Add background and hover state to services
+
+task 25: custom the button
