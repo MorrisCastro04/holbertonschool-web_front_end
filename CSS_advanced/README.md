@@ -33,3 +33,5 @@ task 15: add a universal box sizing
 task 16: add a wide and margin to container class
 
 task 17: create custom properties for padding
+
+task 18: create and add custom propertys to the nav
