@@ -41,3 +41,5 @@ task 19: custom the unordered lists and the footer copyright
 task 20: create a table after the class row
 
 task 21: select the classes that start with col
+
+task 22: style the data section theme
