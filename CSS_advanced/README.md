@@ -45,3 +45,5 @@ task 21: select the classes that start with col
 task 22: style the data section theme
 
 task 23: fix the address and svg to fix the dark theme
+
+task 24: Add background and hover state to services
