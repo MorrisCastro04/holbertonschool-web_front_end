@@ -263,6 +263,7 @@ ul.row {
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
     transition: var(--transition-duration);
+    transition-property: color, background-color;
 }
 
 .card-testimonial {
